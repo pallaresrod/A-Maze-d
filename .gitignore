@@ -1,0 +1,16 @@
+*.log
+*.o
+*.out
+out
+libmy.a
+.gc
+.vscode
+amazed
+organized
+laby_gen.pl
+B-CPE-200_Amazed_binaries
+.idea
+pol.c
+.pol
+.ana
+map.png
